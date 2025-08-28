@@ -1,8 +1,8 @@
 ## oi 👋
-- 🔭 eu estou em busca de um estagio
-- 🌱 eu estou estudando C#
+- 🔭 estudo ciências da computação no UniCEUB.
+estou sempre em busca de crescer como dev e buscando novos desafios 
 - 📫 contate-me no email: cauemanastacio@gmail.com
-- ⚡ Fun fact: sou apaixonado pro jogos desde pequeno e sonho em um dia ter meu proprio estudio de games
+- ⚡ Fun fact: sou apaixonado por jogos desde pequeno, e sonho em um dia ter meu proprio estudio de games
 
 
 <div style="display: inline_block"><br>
