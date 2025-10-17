@@ -1,8 +1,9 @@
-## oi 👋
-- 🔭 estudo ciências da computação no UniCEUB.
-estou sempre em busca de crescer como dev e buscando novos desafios 
-- 📫 contate-me no email: cauemanastacio@gmail.com
-- ⚡ Fun fact: sou apaixonado por jogos desde pequeno, e sonho em um dia ter meu proprio estudio de games
+## Oi 👋
+- 🔭 Estudo ciências da computação no UniCEUB.
+- ⚡ Amo desenvover algoritimos e solucionar problemas, sou apaixonado por game dev e sonho um dia trabalhar com isso
+- Ja desenvolvi um <a href="https://www.mvmadf.com.br" target="_blank"> site muito legal<a>
+- 📫 Contate-me no email: cauemanastacio@gmail.com
+  
 
 
 <div style="display: inline_block"><br>
@@ -16,5 +17,4 @@ estou sempre em busca de crescer como dev e buscando novos desafios
 <br> <br>
 <div> 
   <a href="https://www.linkedin.com/in/caue-anastacio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/caue_anastacio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
 </div>
